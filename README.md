@@ -15,8 +15,8 @@ Surface mass balance, subsurface temperature and density measurements from the G
 </h1> 
 
 ## Quick links:
-- [The SUMup 2023 release](https://www.doi.org/10.18739/A2M61BR5M)
-- [The SUMup 2023 ReadMe file](SUMup%202023%20beta/SUMup_2023_ReadMe.pdf)
+- [The SUMup 2024 release](https://www.doi.org/10.18739/A2M61BR5M)
+- [The SUMup 2024 ReadMe file](SUMup%202024%20beta/SUMup_2024_ReadMe.pdf)
 - [Example Python scripts / Jupyter notebooks to manipulate the 2023 files](https://github.com/SUMup-database/SUMup-example-scripts)
 - [The new netcdf format](https://github.com/SUMup-database/SUMup-2023/blob/main/README.md#the-new-netcdf-structure)
 - [The CSV files](https://github.com/SUMup-database/SUMup-2023/blob/main/README.md#the-csv-files)
