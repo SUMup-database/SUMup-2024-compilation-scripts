@@ -1,0 +1,38 @@
+.DStore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# unzipped csv files are too big
+SUMup 2024 beta/SUMup_2024_temperature_csv/SUMup_2024_temperature_greenland.csv
+SUMup 2024 beta/SUMup_2024_temperature_csv/SUMup_2024_temperature_antarctica.csv
+SUMup 2024 beta/SUMup_2024_SMB_csv/SUMup_2024_SMB_greenland.csv
+SUMup 2024 beta/SUMup_2024_SMB_csv/SUMup_2024_SMB_antarctica.csv
+SUMup 2024 beta/SUMup_2024_density_csv/SUMup_2024_density_greenland.csv
+SUMup 2024 beta/SUMup_2024_density_csv/SUMup_2024_density_antarctica.csv
+
+# 2023 data (scripts download them from DOI)
+data/SUMup 2023/SUMup_2023_SMB_csv.zip
+data/SUMup 2023/SMB/SUMup_2023_SMB_greenland.csv
+data/SUMup 2023/SMB/SUMup_2023_SMB_antarctica.csv
+
+data/SUMup 2023/SUMup_2023_temperature_csv.zip
+data/SUMup 2023/temperature/SUMup_2023_temperature_greenland.csv
+data/SUMup 2023/temperature/SUMup_2023_temperature_antarctica.csv
+
+data/SUMup 2023/SUMup_2023_density_csv.zip
+data/SUMup 2023/density/SUMup_2023_density_greenland.csv
+data/SUMup 2023/density/SUMup_2023_density_antarctica.csv
+
+figures/clusters
+data/SMB data/GC-Net/AWS data/
+
+# useless latex auxillary files (re-built when running script)
+doc/ReadMe_2024_src/SUMup_2024_ReadMe.aux
+doc/ReadMe_2024_src/SUMup_2024_ReadMe.toc
+doc/ReadMe_2024_src/SUMup_2024_ReadMe.synctex.gz
+doc/ReadMe_2024_src/SUMup_2024_ReadMe.out
+data/temperature data/Sigma-A/DATA/SIGMA_AWS_SiteA_2012-2020_Lv1_3.csv
+/doc/.ipynb_checkpoints

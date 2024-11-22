@@ -1,0 +1,20 @@
+var, long_name, units, description
+# DATA
+measurement_id, measurement_index, -, index of density measurement (unique for each observation)
+timestamp, timestamp, -, date at which measurement <measurement_id> was measured
+start_depth, start_depth_of_measurement, m, Top depth of density measurement <measurement_id>
+stop_depth, stop_depth_of_measurement, m, Bottom depth of density measurement <measurement_id>
+midpoint, midpoint_depth_of_measurement, m, Midpoint depth of density measurement <measurement_id>
+density, density, kg m^-3, Measured density for measurement <measurement_id>
+error, error,  kg m^-3, Error associated with the density measurement <measurement_id>
+latitude, latitude, degree North, Latitude of measurement <measurement_id>
+longitude, longitude, degree East, Longitude of measurement <measurement_id>
+elevation, elevation, m, Elevation of measurement <measurement_id> (datum may vary)
+profile_key, profile_key, -, Profile key associated with measurement <measurement_id>
+method_key, method_key, -, Method key of measurement <measurement_id>
+reference_key, reference_key, -, Reference key of measurement <measurement_id>
+# METADATA
+profile, profile, -, name of the profile <profile_key>
+reference, reference, -, full reference associated with <reference_key>  (please cite)
+reference_short, reference_short, -, short reference associated with <reference_key>  (please cite)
+method, method, -, method associated with <method_key>

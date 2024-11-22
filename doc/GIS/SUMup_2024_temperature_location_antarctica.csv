@@ -1,0 +1,771 @@
+latitude,longitude,list_of_name_keys,list_of_names,list_of_reference_keys,list_of_method_keys,timestamp_min,timestamp_max,num_measurements
+-90.0,0.0,17 / 25 / 27,Trans-Antarctic Expedition 1957-1958 / McMurdo-Pole Traverse 1960-1961 / South Pole Traverse 1962-1963,58 / 66 / 67,-9999.0 / 3.0,1958-01-19,1962-12-01,4
+-89.757,42.233,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-12-18,1968-12-18,1
+-89.7,-11.0,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-89.633,-141.4,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-89.6,-97.0,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-89.6,-42.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-18,1958-01-18,1
+-89.6,60.0,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-06,1964-12-06,1
+-89.533,-94.0,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-89.533,-84.7,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-89.3,-14.8,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-89.167,58.5,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1963-12-08,1963-12-08,1
+-89.147,41.133,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-12-15,1968-12-15,1
+-89.117,-114.9,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-89.033,-87.1,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-88.967,-140.0,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-88.95,-38.5,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-88.9,-85.8,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-88.75,58.0,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-09,1964-12-09,1
+-88.65,157.5,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-02-10,1961-02-10,1
+-88.533,-48.9,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-88.45,-140.4,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-88.367,-114.0,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-88.317,58.9,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-11,1964-12-11,1
+-88.233,-83.6,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-88.14,40.883,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-12-12,1968-12-12,1
+-88.117,-69.7,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-88.117,170.5,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-02-06,1961-02-06,1
+-88.1,-31.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-14,1958-01-14,1
+-88.067,-163.5,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-88.017,-83.2,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-88.0,138.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-27,1958-01-27,1
+-87.983,-56.2,27,South Pole Traverse 1962-1963,67,3.0,1963-01-01,1963-01-01,1
+-87.967,-153.0,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.933,-139.1,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.917,-126.2,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.867,139.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-28,1958-01-28,1
+-87.8,59.2,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-14,1964-12-14,1
+-87.767,-113.4,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.767,-82.8,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-87.55,-122.0,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.533,-78.0,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-87.417,-29.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-11,1958-01-11,1
+-87.317,-78.0,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-87.283,58.9,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-15,1964-12-15,1
+-87.25,-121.5,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.15,-112.1,27,South Pole Traverse 1962-1963,67,3.0,1962-12-01,1962-12-01,1
+-87.14,39.617,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-12-10,1968-12-10,1
+-87.117,156.417,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-02-03,1961-02-03,1
+-87.033,141.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-30,1958-01-30,1
+-86.833,-29.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-01-09,1958-01-09,1
+-86.8,-78.1,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-86.8,49.2,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-21,1964-12-21,1
+-86.75,58.6,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-17,1964-12-17,1
+-86.733,40.0,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-24,1964-12-24,1
+-86.633,30.6,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-26,1964-12-26,1
+-86.5,22.2,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-28,1964-12-28,1
+-86.383,-78.2,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-86.15,14.8,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-29,1964-12-29,1
+-86.117,147.5,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-31,1961-01-31,1
+-86.083,40.0,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-12-07,1968-12-07,1
+-86.0,-78.167,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-85.767,8.7,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1964-12-31,1964-12-31,1
+-85.617,-81.117,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-85.433,4.7,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-01,1965-01-01,1
+-85.367,139.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-02-01,1958-02-01,1
+-85.267,-83.333,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-85.267,140.8,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-25,1961-01-25,1
+-85.217,7.7,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-07,1965-01-07,1
+-85.183,13.2,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-08,1965-01-08,1
+-85.167,1.6,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-03,1965-01-03,1
+-85.167,138.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-02-02,1958-02-02,1
+-85.067,-86.233,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-85.055,40.517,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-12-04,1968-12-04,1
+-84.973,-126.833,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-26,1958-11-26,1
+-84.967,17.9,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-10,1965-01-10,1
+-84.85,-90.0,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-84.85,21.8,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-14,1965-01-14,1
+-84.827,-122.0,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-03,1958-12-03,1
+-84.7,26.0,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-15,1965-01-15,1
+-84.687,-114.033,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-06,1958-12-06,1
+-84.672,-96.633,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-21,1958-12-21,1
+-84.652,-118.267,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-04,1958-12-04,1
+-84.633,-93.1,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-84.6,-163.767,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-84.585,-159.45,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-84.533,-126.25,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-23,1958-11-23,1
+-84.533,30.1,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-17,1965-01-17,1
+-84.45,-167.65,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-03,1958-01-03,1
+-84.447,-101.183,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-16,1958-12-16,1
+-84.383,-111.05,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-11,1958-12-11,1
+-84.375,-105.083,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-13,1958-12-13,1
+-84.367,33.9,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-18,1965-01-18,1
+-84.35,-97.417,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-84.308,-91.917,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-23,1958-12-23,1
+-84.3,132.517,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-21,1961-01-21,1
+-84.29,-171.375,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-84.246,-151.908,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-84.172,-171.15,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-31,1957-12-31,1
+-84.167,37.6,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-19,1965-01-19,1
+-84.12,-162.064,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-84.033,40.617,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-11-30,1968-11-30,1
+-83.983,-102.2,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-83.955,-125.033,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-21,1958-11-21,1
+-83.888,-166.883,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-05,1958-01-05,1
+-83.887,-174.75,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-29,1957-12-29,1
+-83.883,41.3,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-22,1965-01-22,1
+-83.85,141.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-02-04,1958-02-04,1
+-83.792,-163.233,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-11,1958-01-11,1
+-83.788,-95.65,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-25,1958-12-25,1
+-83.783,-105.25,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-83.721,-166.521,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.707,176.854,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.533,-168.033,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-07,1958-01-07,1
+-83.533,44.55,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-23,1965-01-23,1
+-83.525,173.007,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-83.517,-156.026,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.433,124.8,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-18,1961-01-18,1
+-83.411,-151.215,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.383,-124.083,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-14,1958-11-14,1
+-83.383,-107.667,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-83.365,174.9,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-22,1957-12-22,1
+-83.359,-171.235,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.355,178.75,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-25,1957-12-25,1
+-83.348,-167.424,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.32,-99.033,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-27,1958-12-27,1
+-83.209,-163.477,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-83.177,-163.517,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-20,1958-01-20,1
+-83.167,47.467,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-24,1965-01-24,1
+-83.007,40.517,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-11-26,1968-11-26,1
+-82.997,-159.201,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.933,-110.1,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-82.917,24.167,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-28,1965-12-28,1
+-82.913,-179.819,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.89,-167.8,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.889,171.995,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.883,30.333,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-25,1965-12-25,1
+-82.881,-154.267,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.881,175.821,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.867,18.167,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-30,1965-12-30,1
+-82.867,35.75,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-23,1965-12-23,1
+-82.856,-150.888,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.833,50.517,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-25,1965-01-25,1
+-82.817,-102.083,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-12-29,1958-12-29,1
+-82.81,174.05,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-21,1957-12-21,1
+-82.808,-123.383,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-13,1958-11-13,1
+-82.8,41.083,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-21,1965-12-21,1
+-82.759,167.807,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.738,-164.053,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.735,-161.892,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.7,46.417,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-18,1965-12-18,1
+-82.633,-163.583,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-20,1958-01-20,1
+-82.591,-153.247,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.567,-111.683,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-82.55,13.333,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-06,1966-01-06,1
+-82.542,-105.717,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1959-01-02,1959-01-02,1
+-82.539,-166.013,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.461,-172.523,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.452,176.506,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.45,51.083,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1965-12-16,1965-12-16,1
+-82.45,52.867,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-26,1965-01-26,1
+-82.374,-168.646,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.363,168.448,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.322,173.0,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-19,1957-12-19,1
+-82.317,130.467,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-14,1961-01-14,1
+-82.237,-165.047,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.233,-122.808,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-11,1958-11-11,1
+-82.225,164.792,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-82.19,-166.583,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-22,1958-01-22,1
+-82.167,-51.417,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-08,1957-12-08,1
+-82.143,-109.118,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1959-01-13,1959-01-13,1
+-82.142,-109.117,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1959-01-04,1959-01-04,1
+-82.117,55.033,28,South Pole-Queen Maud Land Traverse I 1964-1965,68,-9999.0,1965-01-28,1965-01-28,1
+-82.083,-113.717,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-82.078,-153.668,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.058,-73.967,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-11-29,1958-11-29,1
+-82.053,-81.533,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-04,1958-12-04,1
+-82.026,-176.765,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-82.013,-78.017,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-01,1958-12-01,1
+-82.002,40.617,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-11-24,1968-11-24,1
+-82.0,9.583,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-08,1966-01-08,1
+-81.996,-179.797,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.975,-54.717,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-17,1957-12-17,1
+-81.95,-29.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1957-12-22,1957-12-22,1
+-81.945,-158.578,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-81.944,-173.231,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-81.933,176.042,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.9,-169.828,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-81.877,-91.067,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-13,1958-12-13,1
+-81.863,173.649,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.857,171.617,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-16,1957-12-16,1
+-81.775,-94.7,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-17,1958-12-17,1
+-81.75,14.667,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-12,1966-01-12,1
+-81.742,-112.1,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1959-01-15,1959-01-15,1
+-81.725,-88.1,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-09,1958-12-09,1
+-81.714,165.902,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.678,-121.967,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-09,1958-11-09,1
+-81.673,-167.983,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-24,1958-01-24,1
+-81.663,-98.467,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-19,1958-12-19,1
+-81.617,-115.367,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-81.608,-163.267,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1974-01-01,1974-01-01,1
+-81.599,162.686,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.583,-84.667,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-06,1958-12-06,1
+-81.577,-151.73,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-81.567,-100.667,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-21,1958-12-21,1
+-81.567,19.583,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-14,1966-01-14,1
+-81.553,-73.3,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-11-25,1958-11-25,1
+-81.5,-57.317,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-18,1957-12-18,1
+-81.487,179.892,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.46,-176.782,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.458,-49.833,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-06,1957-12-06,1
+-81.449,176.597,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.33,-104.533,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-24,1958-12-24,1
+-81.314,170.089,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.281,166.985,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.263,-120.883,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-07,1958-11-07,1
+-81.212,170.75,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-13,1957-12-13,1
+-81.194,170.497,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1976-01-01,1976-01-01,1
+-81.168,-168.2,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-26,1958-01-26,1
+-81.167,-116.8,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-81.167,25.5,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-20,1966-01-20,1
+-81.163,-107.417,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-12-26,1958-12-26,1
+-81.13,163.44,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-81.128,-71.333,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-11-23,1958-11-23,1
+-81.05,-68.0,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-11-21,1958-11-21,1
+-81.05,-61.547,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-02-28,1958-02-28,1
+-81.035,-59.85,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-20,1957-12-20,1
+-80.997,-168.994,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.983,134.333,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-11,1961-01-11,1
+-80.982,-160.458,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.958,161.21,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.951,179.833,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.95,-61.275,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-02-20,1958-02-20,1
+-80.927,-47.983,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-05,1957-12-05,1
+-80.84,-111.883,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1959-01-01,1959-01-01,1
+-80.811,170.421,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.8,29.833,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-22,1966-01-22,1
+-80.783,-118.1,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-80.781,-151.882,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.75,167.393,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.738,-62.317,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-21,1957-12-21,1
+-80.705,-120.317,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-05,1958-11-05,1
+-80.673,-168.333,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-28,1958-01-28,1
+-80.637,-58.283,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1958-01-15,1958-01-15,1
+-80.617,170.083,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-10,1957-12-10,1
+-80.6,-154.692,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.59,-46.933,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-02,1957-12-02,1
+-80.585,-176.906,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.578,-114.95,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1959-01-04,1959-01-04,1
+-80.551,162.621,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.492,-104.083,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-07,1957-02-07,1
+-80.488,-101.067,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-05,1957-02-05,1
+-80.487,-173.9,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.461,179.65,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.453,-107.017,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-10,1957-02-10,1
+-80.425,-98.167,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-02,1957-02-02,1
+-80.424,173.968,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.387,-109.85,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-12,1957-02-12,1
+-80.384,170.95,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.383,33.75,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-25,1966-01-25,1
+-80.367119,77.373028,403,Dome_A,92,26.0,2005-01-01,2005-01-01,1
+-80.36,-117.467,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1959-01-05,1959-01-05,1
+-80.322,-158.667,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.32,-112.683,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-14,1957-02-14,1
+-80.311,-168.274,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.283,-60.467,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1958-01-08,1958-01-08,1
+-80.277,-95.317,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-31,1957-01-31,1
+-80.265,-120.2,21,Marie Byrd Land-Horlick Mountains Traverse 1958-1959,62,1.0,1958-11-03,1958-11-03,1
+-80.23,-114.667,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-02-18,1957-02-18,1
+-80.217,-119.5,41,Byrd Station to South Pole Traverse 1960-1961,80,-9999.0,1960-12-31,1960-12-31,1
+-80.195,-63.75,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-22,1957-12-22,1
+-80.192,-161.561,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.188,-165.208,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-80.173,-168.25,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-01-31,1958-01-31,1
+-80.167,139.033,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-09,1961-01-09,1
+-80.11,165.245,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.043,-54.533,19,Ellsworth-Byrd Station Traverse 1958-1959,59,-9999.0,1958-02-07,1958-02-07,1
+-80.022,162.389,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-80.018,40.65,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-11-18,1968-11-18,1
+-80.0,-120.0,18 / 21 / 22 / 24 / 41,Sentinel Range (Marie Byrd Land) Traverse 1957-1958 / Marie Byrd Land-Horlick Mountains Traverse 1958-1959 / Marie Byrd Traverse 1959-1960 / Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961 / Byrd Station to South Pole Traverse 1960-1961,56 / 62 / 63 / 65 / 80,1.0 / -9999.0 / 2.0,1957-05-16,1960-12-31,7
+-79.995,-173.983,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-19,1957-11-19,1
+-79.991,-152.104,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-79.983,177.101,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.976,-177.214,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.95,-116.583,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-15,1960-11-15,1
+-79.95,37.167,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-27,1966-01-27,1
+-79.936,171.637,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.924444,-94.388333,379,Mount_Johns,87,-9999.0,2009-01-01,2009-01-01,1
+-79.91,170.3,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-08,1957-12-08,1
+-79.883,-114.383,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-17,1960-11-17,1
+-79.878,-93.45,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-29,1957-01-29,1
+-79.873,-45.1,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-01,1957-12-01,1
+-79.805,-112.183,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-18,1960-11-18,1
+-79.787,-121.767,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-26,1957-02-26,1
+-79.765,166.386,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.7,-118.55,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-11-20,1957-11-20,1
+-79.67,-150.617,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-79.667,149.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-02-18,1958-02-18,1
+-79.663,-168.533,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-02-02,1958-02-02,1
+-79.642,-123.0,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-24,1957-02-24,1
+-79.587,-153.033,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-04-01,1958-04-01,1
+-79.53,163.362,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.498,-108.233,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-22,1960-11-22,1
+-79.495,-120.033,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-07,1959-11-07,1
+-79.482,-154.433,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-04-03,1958-04-03,1
+-79.48,-65.5,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-25,1957-12-25,1
+-79.478,-124.403,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-23,1957-02-23,1
+-79.462,-44.433,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-11-29,1957-11-29,1
+-79.435,-150.432,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-03,1957-02-03,1
+-79.429,171.992,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.388,-161.886,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-79.372,-155.983,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-03-30,1958-03-30,1
+-79.353,-40.417,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-11-10,1957-11-10,1
+-79.338,-106.117,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-24,1960-11-24,1
+-79.323,-125.57,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-21,1957-02-21,1
+-79.32,-91.233,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-25,1957-01-25,1
+-79.317,169.429,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.31,-164.708,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.294,-169.363,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.252,170.333,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-06,1957-12-06,1
+-79.25,40.5,42,South Pole-Queen Maud Land Traverse II,81,-9999.0,1966-01-28,1966-01-28,1
+-79.23,-157.1,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-04-05,1958-04-05,1
+-79.205,-146.782,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-06,1957-02-06,1
+-79.2,143.2,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-06,1961-01-06,1
+-79.197,-166.55,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-12,1957-11-12,1
+-79.153,-168.65,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-15,1957-11-15,1
+-79.137,179.922,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-79.133,36.717,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1967-12-07,1967-12-07,1
+-79.13,-126.95,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-20,1957-02-20,1
+-79.117,-171.517,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-17,1957-11-17,1
+-79.107,-168.667,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-02-04,1958-02-04,1
+-79.083,163.85,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1958-11-12,1958-11-12,1
+-79.082,165.183,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1959-01-24,1959-01-24,1
+-79.08,165.633,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1958-11-09,1958-11-09,1
+-79.077,179.683,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-24,1957-11-24,1
+-79.073,167.4,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1958-11-07,1958-11-07,1
+-79.05,169.183,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1958-11-05,1958-11-05,1
+-79.038,-158.333,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-03-28,1958-03-28,1
+-79.025,-102.033,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-26,1960-11-26,1
+-79.017,170.7,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1958-11-04,1958-11-04,1
+-79.003,-119.567,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-09,1959-11-09,1
+-79.002,162.25,20,Little America-Victoria Land Traverse 1958-1959,61,1.0,1958-11-16,1958-11-16,1
+-78.99,174.833,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-30,1957-11-30,1
+-78.978,-66.633,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-12-30,1957-12-30,1
+-78.977,-177.1,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-11-23,1957-11-23,1
+-78.967,-128.083,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-18,1957-02-18,1
+-78.957,179.922,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.95,152.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-02-20,1958-02-20,1
+-78.94611,-56.84,6,FRI08S84_341,53,-9999.0,1984-02-09,1984-02-09,1
+-78.943,174.841,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.917,-164.833,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-10-31,1957-10-31,1
+-78.907,-172.414,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.883,-38.267,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-11-07,1957-11-07,1
+-78.877,-90.183,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-23,1957-01-23,1
+-78.875,172.367,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-02,1957-12-02,1
+-78.87167,-53.40333,2,FRI03S86_345,53,-9999.0,1986-01-28,1986-01-28,1
+-78.855,-159.433,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-04-07,1958-04-07,1
+-78.85,33.233,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1967-12-12,1967-12-12,1
+-78.842,-100.183,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-28,1960-11-28,1
+-78.82,-68.617,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1958-01-02,1958-01-02,1
+-78.809,-167.391,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.788,-129.217,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-16,1957-02-16,1
+-78.787,-139.967,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-10,1957-02-10,1
+-78.783,-114.983,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-11-25,1957-11-25,1
+-78.768,170.283,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-12-04,1957-12-04,1
+-78.759,-159.888,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-78.748,-143.817,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-08,1957-02-08,1
+-78.717,29.717,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1967-12-13,1967-12-13,1
+-78.712,-168.783,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-02-06,1958-02-06,1
+-78.7,-6.867,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-26,1968-01-26,1
+-78.675,-132.583,15,Little America-Byrd Station Traverse 1957-1958,56,1.0,1957-02-14,1957-02-14,1
+-78.658,-166.667,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-02-08,1958-02-08,1
+-78.652,-98.283,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-11-29,1960-11-29,1
+-78.633,-160.367,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-03-26,1958-03-26,1
+-78.6,-162.158,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1975-01-01,1975-01-01,1
+-78.6,-13.233,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-78.6,149.0,25,McMurdo-Pole Traverse 1960-1961,66,-9999.0,1961-01-02,1961-01-02,1
+-78.567,-163.95,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-02-10,1958-02-10,1
+-78.565,-37.967,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-11-05,1957-11-05,1
+-78.55,-15.85,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-78.505,-119.717,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-11,1959-11-11,1
+-78.5,154.0,17,Trans-Antarctic Expedition 1957-1958,58,-9999.0,1958-02-21,1958-02-21,1
+-78.483,177.49,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.48,179.835,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.472,161.783,20,Little America-Victoria Land Traverse 1958-1959,61,1.0,1958-11-27,1958-11-27,1
+-78.447,-39.034,14,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958,55,-9999.0,1957-11-02,1957-11-02,1
+-78.433,-100.083,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-01,1960-12-01,1
+-78.42778,-52.50639,12,FRI02C92_246,54,-9999.0,1992-01-30,1992-01-30,1
+-78.42,172.536,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.419,-175.296,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-78.417,-89.283,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-21,1957-01-21,1
+-78.413,-161.333,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1958-04-08,1958-04-08,1
+-78.412,170.133,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1959-01-27,1959-01-27,1
+-78.363,161.6,20,Little America-Victoria Land Traverse 1958-1959,61,1.0,1958-11-30,1958-11-30,1
+-78.333,-16.833,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-78.317,23.367,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1967-12-17,1967-12-17,1
+-78.312,-138.031,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-31,1960-01-31,1
+-78.30833,-57.12833,7,FRI13S86_335,53,-9999.0,1990-02-03,1990-02-03,1
+-78.308,-114.517,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-11-27,1957-11-27,1
+-78.305,161.4,20,Little America-Victoria Land Traverse 1958-1959,61,1.0,1958-12-03,1958-12-03,1
+-78.3,167.248,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1978-01-01,1978-01-01,1
+-78.267,-4.017,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-24,1968-01-24,1
+-78.24194,-54.04694,5,FRI06S84_241,53,-9999.0,1984-01-30,1984-01-30,1
+-78.227,161.217,20,Little America-Victoria Land Traverse 1958-1959,61,1.0,1958-12-04,1958-12-04,1
+-78.217,-101.833,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-03,1960-12-03,1
+-78.175,-162.217,16,Ross Ice Shelf Traverse 1957-1958,57,1.0,1957-06-26,1957-06-26,1
+-78.167,169.5,20,Little America-Victoria Land Traverse 1958-1959,57,1.0,1959-01-29,1959-01-29,1
+-78.128,160.467,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-06,1958-12-06,1
+-78.082,139.533,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-29,1958-12-29,1
+-78.08,149.917,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-22,1958-12-22,1
+-78.073,148.65,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1959-01-13,1959-01-13,1
+-78.072,135.767,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1959-01-03,1959-01-03,1
+-78.067,142.417,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-27,1958-12-27,1
+-78.067,147.467,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-24,1958-12-24,1
+-78.05833,-58.77667,11,FRI18S86_330,53,-9999.0,1986-02-02,1986-02-02,1
+-78.057,136.433,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1959-01-01,1959-01-01,1
+-78.055,131.717,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1959-01-07,1959-01-07,1
+-78.05,152.75,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-20,1958-12-20,1
+-78.04,154.017,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1959-01-15,1959-01-15,1
+-78.038,145.217,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-25,1958-12-25,1
+-78.038,159.333,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-08,1958-12-08,1
+-78.028,155.3,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-17,1958-12-17,1
+-78.022,158.417,20,Little America-Victoria Land Traverse 1958-1959,60,1.0,1958-12-10,1958-12-10,1
+-78.017,20.083,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1967-12-23,1967-12-23,1
+-78.01,41.167,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-11-09,1968-11-09,1
+-77.997,-120.017,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-13,1959-11-13,1
+-77.95,-89.25,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-19,1957-01-19,1
+-77.9,-113.267,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-11-29,1957-11-29,1
+-77.883,-1.917,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-23,1968-01-23,1
+-77.86722,-52.80417,4,FRI05S84_240,53,-9999.0,1984-01-27,1984-01-27,1
+-77.838,-139.95,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-29,1960-01-29,1
+-77.8,-101.167,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-05,1960-12-05,1
+-77.772,-87.517,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-13,1957-01-13,1
+-77.733,-89.133,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-10,1957-01-10,1
+-77.71167,-57.43667,10,FRI17S86_231,53,-9999.0,1986-02-05,1986-02-05,1
+-77.71,-41.133,14 / 19,Filchner Ice Shelf (Ellsworth) Traverse 1957-1958 / Ellsworth-Byrd Station Traverse 1958-1959,55 / 59,-9999.0,1957-05-04,1958-05-07,4
+-77.688,-91.467,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-08,1957-01-08,1
+-77.657,174.071,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1977-01-01,1977-01-01,1
+-77.65,17.167,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1967-12-26,1967-12-26,1
+-77.603,-93.733,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-06,1957-01-06,1
+-77.57861,-50.57944,1,FRI01S84_141,53,-9999.0,1984-01-24,1984-01-24,1
+-77.572,-95.933,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-04,1957-01-04,1
+-77.527,-98.183,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-01-02,1957-01-02,1
+-77.5,0.083,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-22,1968-01-22,1
+-77.497,-120.017,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-17,1959-11-17,1
+-77.467,-112.367,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-11,1957-12-11,1
+-77.467,-100.45,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-13,1960-12-13,1
+-77.46,-100.433,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-31,1957-12-31,1
+-77.433,-21.017,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-77.433,41.533,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-01-24,1969-01-24,1
+-77.358,-141.767,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-26,1960-01-26,1
+-77.355,-102.683,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-29,1957-12-29,1
+-77.355,-56.04,9,FRI16S86_230,53,-9999.0,1986-02-07,1986-02-07,1
+-77.325,170.891,33,Ross Ice Shelf Geophysical and Glaciological Survey (RIGGS),73,6.0,1978-01-01,1978-01-01,1
+-77.267,14.417,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-01,1968-01-01,1
+-77.233,-104.833,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-25,1957-12-25,1
+-77.225,-119.85,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-19,1959-11-19,1
+-77.19389,-53.14083,13,FRI10S90_136,54,-9999.0,1990-01-21,1990-01-21,1
+-77.167,1.767,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-21,1968-01-21,1
+-77.15,-139.3,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-24,1960-01-24,1
+-77.12917,-50.50139,3,FRI04S84_140,53,-9999.0,1984-01-22,1984-01-22,1
+-77.117,-107.017,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-23,1957-12-23,1
+-77.1,-101.167,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-15,1960-12-15,1
+-77.071,39.531,405,DFNW,94,-9999.0,2018-05-01,2018-05-01,1
+-77.05,-22.5,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-77.01,-50.4,377,Filchner_Ronne_Ice_Shelf,85,-9999.0,1982-01-01,1982-01-01,1
+-77.005,48.046,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-13,1974-11-13,1
+-76.99333,-54.83333,8,FRI15S86_131,53,-9999.0,1986-02-09,1986-02-09,1
+-76.992,-112.783,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-12,1957-12-12,1
+-76.983,41.8,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-11-05,1968-11-05,1
+-76.98111,-52.26778,378,Filchner_Ronne_Ice_Shelf2,86,4.0,1990-01-01,1990-01-01,1
+-76.967,-109.117,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-21,1957-12-21,1
+-76.926,-96.898,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-26,2013-12-26,1
+-76.9,-136.867,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-22,1960-01-22,1
+-76.883,-102.583,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-17,1960-12-17,1
+-76.85,-118.233,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-21,1959-11-21,1
+-76.85,-100.833,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-19,1960-12-19,1
+-76.833,11.883,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-03,1968-01-03,1
+-76.8,-99.0,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-21,1960-12-21,1
+-76.783,-97.283,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-22,1960-12-22,1
+-76.733,-111.367,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-19,1957-12-19,1
+-76.71,-95.517,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-23,1960-12-23,1
+-76.685,-93.683,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-25,1960-12-25,1
+-76.65,-91.883,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-27,1960-12-27,1
+-76.638,-134.5,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-20,1960-01-20,1
+-76.633,4.267,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-19,1968-01-19,1
+-76.627,-117.617,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-24,1959-11-24,1
+-76.583,-90.083,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-28,1960-12-28,1
+-76.567,-24.067,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-76.532,-88.417,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-29,1960-12-29,1
+-76.503,-113.017,18,Sentinel Range (Marie Byrd Land) Traverse 1957-1958,56,1.0,1957-12-17,1957-12-17,1
+-76.442,-86.683,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1960-12-31,1960-12-31,1
+-76.404,-99.828,37,iSTAR Pine Island Glacier,79,4.0,2014-01-04,2014-01-04,1
+-76.367,9.533,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-04,1968-01-04,1
+-76.338,-132.3,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-16,1960-01-16,1
+-76.295,-88.3,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-01,1961-01-01,1
+-76.283,5.8,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-18,1968-01-18,1
+-76.224,-100.77,37,iSTAR Pine Island Glacier,79,4.0,2014-01-05,2014-01-05,1
+-76.14,-88.9,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-04,1961-01-04,1
+-76.1,-25.517,31,Inland from Halley Bay 1970,71,5.0,1970-11-15,1970-11-15,1
+-76.062,-116.95,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-27,1959-11-27,1
+-76.038,-130.167,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-09,1960-01-09,1
+-76.017,-123.683,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-01,1960-01-01,1
+-75.993,48.097,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-09,1974-11-15,2
+-75.987,-121.083,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-12-29,1959-12-29,1
+-75.975,-91.467,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-06,1961-01-06,1
+-75.957,42.383,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-10-31,1969-01-28,2
+-75.933,7.217,43,South Pole-Queen Maud Land Traverse III 1967-1968,81,-9999.0,1968-01-16,1968-01-16,1
+-75.82,-93.083,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-08,1961-01-08,1
+-75.805,-94.231,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-21,2013-12-21,1
+-75.804,-100.28,37,iSTAR Pine Island Glacier,79,4.0,2014-01-07,2014-01-07,1
+-75.803,-99.048,37,iSTAR Pine Island Glacier,79,4.0,2014-01-03,2014-01-03,1
+-75.797,-128.067,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1960-01-07,1960-01-07,1
+-75.787,-118.75,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-12-26,1959-12-26,1
+-75.783,148.45,23,Victoria Land Traverse 1959-1960,64,1.0,1959-11-26,1959-11-26,1
+-75.75,-96.73,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-23,2013-12-23,1
+-75.74,-97.93,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-28,2013-12-28,1
+-75.712,-125.633,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1969-01-04,1969-01-04,1
+-75.67,-94.69,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-19,2013-12-19,1
+-75.628,-94.5,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-09,1961-01-09,1
+-75.617,-99.073,37,iSTAR Pine Island Glacier,79,4.0,2013-12-31,2013-12-31,1
+-75.588,-116.45,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-11-30,1959-11-30,1
+-75.535,47.955,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-08,1974-11-08,1
+-75.517,-26.617,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-75.477,48.1,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-14,1974-11-14,1
+-75.456,-93.718,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-03,2013-12-03,1
+-75.445,-95.933,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-11,1961-01-11,1
+-75.44,-94.46,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-07,2013-12-07,1
+-75.433,-72.367,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-02-02,1962-02-02,1
+-75.431,-92.06,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-02,2013-12-02,1
+-75.418,-94.333,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-15,1961-01-15,1
+-75.417,-116.3,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-12-21,1959-12-21,1
+-75.383,-92.7,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-16,1961-01-16,1
+-75.367,-74.933,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-02-04,1962-02-04,1
+-75.333,-91.133,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-18,1961-01-18,1
+-75.319,-90.524,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-01,2013-12-01,1
+-75.28,-86.25,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-22,1961-01-22,1
+-75.267,-89.5,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-19,1961-01-19,1
+-75.267,-70.85,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-02-01,1962-02-01,1
+-75.25,-87.883,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-21,1961-01-21,1
+-75.25,-77.117,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1961-12-27,1961-12-27,1
+-75.225,-84.667,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-23,1961-01-23,1
+-75.2,146.8,23,Victoria Land Traverse 1959-1960,64,1.0,1959-11-28,1959-11-28,1
+-75.167333,5.000333,409,DML16,95,-9999.0,1998-12-01,1998-12-01,1
+-75.127,-83.15,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-24,1961-01-24,1
+-75.09,-95.09,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-11,2013-12-11,1
+-75.0,6.501667,411,DML23,95,-9999.0,1998-11-01,1998-11-01,1
+-75.0,15.002,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-74.998,-93.93,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-17,2013-12-17,1
+-74.995,42.833,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-01-31,1969-01-31,1
+-74.993,-116.117,22,Marie Byrd Traverse 1959-1960,63,-9999.0,1959-12-23,1959-12-23,1
+-74.983,-73.383,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-07,1962-01-07,1
+-74.975,-81.683,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-26,1961-01-26,1
+-74.968333,-3.918667,407,DML02,95,-9999.0,1996-01-02,1996-01-02,1
+-74.967,-68.2,26 / 34,Antarctic Peninsula Traverse 1961-1962 / Glaciology of the Antarctic Peninsula Program 1974,65 / 76,2.0 / 5.0,1961-01-29,1975-12-31,2
+-74.956,-94.631,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-14,2013-12-14,1
+-74.923,47.935,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-17,1974-11-17,1
+-74.867,-74.467,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-06,1962-01-06,1
+-74.84,48.925,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-06,1974-11-06,1
+-74.753,42.85,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-10-25,1968-10-25,1
+-74.75,-83.017,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-29,1961-01-29,1
+-74.667167,4.000167,410,DML21,95,-9999.0,1998-04-01,1998-04-01,1
+-74.647,12.791,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-74.633,-71.05,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-11,1962-01-11,1
+-74.62,-92.7,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-16,2013-12-16,1
+-74.565,-86.913,37,iSTAR Pine Island Glacier,79,-9999.0,2013-11-25,2013-11-25,1
+-74.538,47.617,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-18,1974-11-18,1
+-74.518,-84.267,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-01-31,1961-01-31,1
+-74.499167,1.960833,408,DML03,95,-9999.0,1997-02-01,1997-02-01,1
+-74.493,48.087,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-05,1974-11-05,1
+-74.45,-67.133,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-19,1962-01-19,1
+-74.448917,155.299833,402,M4,91,25.0,2021-01-01,2021-01-01,1
+-74.442,-93.448,37,iSTAR Pine Island Glacier,79,-9999.0,2013-12-05,2013-12-05,1
+-74.354,11.104,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-74.272,-85.533,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-02-01,1961-02-01,1
+-74.267,-70.167,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-13,1962-01-13,1
+-74.217,-83.25,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1961-12-12,1961-12-12,1
+-74.195,-87.05,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-02-03,1961-02-03,1
+-74.1385,126.1585,380,Lock_in,88,-9999.0,2016-01-01,2016-01-01,1
+-74.127,47.137,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-19,1974-11-19,1
+-74.111,-89.224,37,iSTAR Pine Island Glacier,79,-9999.0,2013-11-29,2013-11-29,1
+-74.067,-66.583,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-18,1962-01-18,1
+-74.05,-80.533,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1961-12-18,1961-12-18,1
+-74.045,9.492,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-74.025333,155.96,401,31Dpt,91,25.0,2020-01-01,2020-01-01,1
+-74.017,-70.633,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-74.0,-89.917,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-02-06,1961-02-06,1
+-74.0,-70.75,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-73.972,-91.45,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-02-07,1961-02-07,1
+-73.916667,163.75,375,Styx Glacier,83,-9999.0,1992-01-01,1992-01-01,1
+-73.9,-69.433,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-14,1962-01-14,1
+-73.837,-93.633,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-02-09,1961-02-09,1
+-73.808,48.398,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-02,1974-11-02,2
+-73.724,7.941,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-73.717,-67.267,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-17,1962-01-17,1
+-73.717,46.658,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-20,1974-11-20,1
+-73.7,-64.783,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-73.542,42.917,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-02-04,1969-02-04,1
+-73.533,-68.617,26,Antarctic Peninsula Traverse 1961-1962,65,2.0,1962-01-15,1962-01-15,1
+-73.487,-94.408,24,Ellsworth Highland (Byrd Station to Bellingshausen Sea) Traverse 1960- 1961,65,2.0,1961-02-12,1961-02-12,1
+-73.483,-70.133,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-73.386,6.461,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-73.381933,157.66165,400,M3,91,25.0,2019-01-01,2019-01-01,1
+-73.117,142.5,23,Victoria Land Traverse 1959-1960,64,1.0,1959-12-10,1959-12-10,1
+-73.1,165.433333,374,Hercules Neve,82,25.0,1994-01-01,1994-01-01,1
+-73.041,5.044,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-73.017,46.358,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-23,1974-11-23,1
+-72.983,-74.75,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-72.861,4.351,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-72.833,-75.0,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.833,-64.5,34,Glaciology of the Antarctic Peninsula Program 1974,75,5.0,1975-12-31,1975-12-31,1
+-72.816667,159.183333,382,Talos_Dome,90,-9999.0,1996-01-01,1996-01-01,1
+-72.783,-64.5,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.770583,159.07575,399,TDN,91,25.0,2018-01-01,2018-01-01,1
+-72.767,48.612,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-10-30,1974-10-30,1
+-72.678,3.663,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-72.633,161.533,23,Victoria Land Traverse 1959-1960,64,1.0,1960-02-06,1960-02-06,1
+-72.628333,150.173883,391,GV3,91,25.0,2010-01-01,2010-01-01,1
+-72.592,45.767,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-24,1974-11-24,1
+-72.520867,152.357167,392,TP8S,91,25.0,2011-01-01,2011-01-01,1
+-72.5,-72.833,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.5,3.0,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-72.483,141.35,23,Victoria Land Traverse 1959-1960,64,1.0,1959-12-15,1959-12-15,1
+-72.423,48.715,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-10-29,1974-10-29,1
+-72.388617,154.48415,393,GV4,91,25.0,2012-01-01,2012-01-01,1
+-72.383,158.75,23,Victoria Land Traverse 1959-1960,64,1.0,1960-01-30,1960-01-30,1
+-72.366667,158.75,398,ST556,91,25.0,2017-01-01,2017-01-01,1
+-72.317,-67.083,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.3019,147.2874,390,TP7S,91,25.0,2009-01-01,2009-01-01,1
+-72.3,-72.033,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.283,156.367,23,Victoria Land Traverse 1959-1960,64,1.0,1960-01-27,1960-01-27,1
+-72.277917,156.368217,394,St553,91,25.0,2013-01-01,2013-01-01,1
+-72.251,2.891,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-72.233,-67.65,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.233,153.8,23,Victoria Land Traverse 1959-1960,64,1.0,1960-01-23,1960-01-23,1
+-72.223,45.295,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-25,1974-11-25,1
+-72.217,-71.833,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.217,-60.267,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.2,-72.783,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.2,-72.633,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.2,151.233,23,Victoria Land Traverse 1959-1960,64,1.0,1960-01-19,1960-01-19,1
+-72.134,3.175,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-72.133,145.883,23,Victoria Land Traverse 1959-1960,64,1.0,1960-01-10,1960-01-10,1
+-72.133,148.2,23,Victoria Land Traverse 1959-1960,64,1.0,1960-01-14,1960-01-14,1
+-72.117,-68.8,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-72.07,43.15,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-10-17,1969-10-17,1
+-72.064,-9.5583,376,Sorasen_south,84,4.0,2007-01-02,2007-01-02,1
+-72.002,43.164,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-12-15,1969-12-15,1
+-72.0,-67.15,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.967,-67.55,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.923,39.396,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-12-15,1969-12-15,1
+-71.9,3.083,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-71.887,158.536933,395,GV5,91,25.0,2014-01-01,2014-01-01,1
+-71.867,-68.0,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.833,44.75,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-27,1974-11-27,2
+-71.833,140.25,23,Victoria Land Traverse 1959-1960,64,1.0,1959-12-19,1959-12-19,1
+-71.77,48.933,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-71.758,48.943,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-10-26,1974-10-26,1
+-71.7117,145.2631,389,GV2,91,25.0,2008-01-01,2008-01-01,1
+-71.7,-64.083,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.6842,158.862483,397,GV7,91,25.0,2016-01-01,2016-01-01,1
+-71.623,48.2,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-71.483,-66.967,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.47,49.232,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-71.45,44.725,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-28,1974-11-28,1
+-71.447,47.363,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-71.408367,143.082,388,TP6S,91,25.0,2007-01-01,2007-01-01,1
+-71.383,-65.5,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.333,-68.283,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-71.323,43.0,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-12-15,1969-12-15,1
+-71.317,-68.0,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.3,-67.617,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.3,-67.483,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,2
+-71.282,46.31,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-10-18,1974-10-18,2
+-71.266,46.536,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-71.25,-64.5,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.233,-63.367,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.192,4.597,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-71.177033,158.282917,396,GV6,91,25.0,2015-01-01,2015-01-01,1
+-71.167,49.572,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-71.131,37.458,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-12-15,1969-12-15,1
+-71.117,-62.333,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.1,-68.1,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.094,39.731,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-12-15,1969-12-15,1
+-71.077,45.613,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-10-16,1974-10-16,1
+-71.05,-68.383,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.05,-68.367,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.05,-10.933,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-71.017,44.68,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-11-29,1974-11-29,1
+-70.983,-66.25,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.917,-68.067,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.883,-64.95,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.8711,141.383333,387,GV1,91,25.0,2006-01-01,2006-01-01,1
+-70.844,43.192,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-12-15,1969-12-15,1
+-70.842,43.117,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-02-07,1969-02-07,1
+-70.833,-64.45,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.717,-63.15,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.706667,-8.426667,406,Pegelfeld_Sud,95,-9999.0,1997-04-12,1997-04-12,1
+-70.702,44.292,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-70.7,-62.75,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-70.7,44.3,32,Japanese Antarctic Research Expedition (JARE) 12 and 13 1972-1973,72,-9999.0,1972-01-13,1973-05-22,2
+-70.67,43.1,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1969-11-10,1969-11-10,1
+-70.617,-60.733,34,Glaciology of the Antarctic Peninsula Program 1974,75,5.0,1975-12-31,1975-12-31,1
+-70.615,50.223,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-70.583,-60.833,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.557,45.275,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1975-01-06,1975-01-06,1
+-70.483,-64.2,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-70.417,-64.533,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.333,43.617,32,Japanese Antarctic Research Expedition (JARE) 12 and 13 1972-1973,72,-9999.0,1972-01-20,1972-01-20,1
+-70.313,50.546,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-70.255,43.497,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1975-02-07,1975-02-07,1
+-70.242,4.811,36,Norwegian Traverse 1996-1997,78,4.0,1996-12-31,1996-12-31,1
+-70.233,-65.083,34,Glaciology of the Antarctic Peninsula Program 1974,75,5.0,1975-12-31,1975-12-31,1
+-70.222,46.573,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1975-01-05,1975-01-05,1
+-70.157,46.767,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-70.092,46.968,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1975-01-04,1975-01-04,1
+-70.087,43.117,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-04-26,1969-04-26,1
+-70.029117,140.57565,386,TP3S,91,25.0,2005-01-01,2005-01-01,1
+-70.018,43.108,30 / 35,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970 / Japanese Antarctic Research Expedition (JARE) 15 1974-1975,70 / 77,4.0 / -9999.0,1969-12-15,1974-10-09,2
+-70.017,-64.483,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-70.017,43.117,32,Japanese Antarctic Research Expedition (JARE) 12 and 13 1972-1973,72,-9999.0,1972-01-21,1973-01-24,2
+-70.0,-75.333,34,Glaciology of the Antarctic Peninsula Program 1974,75,5.0,1975-12-31,1975-12-31,1
+-69.967,-66.233,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-69.783,-75.217,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-69.698,51.015,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-69.69,48.171,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-69.667,-65.5,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-69.662,48.317,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1975-01-02,1975-01-02,1
+-69.6,-68.15,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-69.6,-67.133,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-69.58295,135.453517,383,D76,91,25.0,2002-01-01,2002-01-01,1
+-69.542,49.933,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-12-30,1974-12-30,1
+-69.513,49.133,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-12-30,1974-12-30,1
+-69.5,-66.267,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-69.467,42.7,32,Japanese Antarctic Research Expedition (JARE) 12 and 13 1972-1973,72,-9999.0,1972-01-22,1972-01-22,1
+-69.388,49.467,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-69.374717,139.014717,385,Charcot,91,25.0,2004-01-01,2004-01-01,1
+-69.238,49.983,35,Japanese Antarctic Research Expedition (JARE) 15 1974-1975,77,-9999.0,1974-12-28,1974-12-28,1
+-69.115,42.483,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1969-02-12,1969-02-12,1
+-69.088,51.502,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-69.078,41.117,30 / 35,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970 / Japanese Antarctic Research Expedition (JARE) 15 1974-1975,70 / 77,4.0 / -9999.0,1969-12-15,1975-02-10,2
+-69.067,41.583,32,Japanese Antarctic Research Expedition (JARE) 12 and 13 1972-1973,72,-9999.0,1972-01-24,1972-01-24,1
+-69.034,40.017,29,Syowa-South Pole Traverse 1968-1969,69,4.0,1968-04-20,1968-04-20,1
+-69.033,40.05,32,Japanese Antarctic Research Expedition (JARE) 12 and 13 1972-1973,72,-9999.0,1972-01-25,1972-01-25,1
+-68.978,50.85,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-68.939633,136.9352,384,D66,91,25.0,2003-01-01,2003-01-01,1
+-68.767,-60.933,34,Glaciology of the Antarctic Peninsula Program 1974,75,5.0,1975-12-31,1975-12-31,1
+-68.752,51.6,30,Japanese Antarctic Research Expedition (JARE) 10 and 11 1969-1970,70,4.0,1970-12-15,1970-12-15,1
+-68.533,-61.1,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-68.183,-67.0,34,Glaciology of the Antarctic Peninsula Program 1974,75,5.0,1975-12-31,1975-12-31,1
+-68.167,-66.817,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-68.133,-65.9,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-68.117,-66.3,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-68.117,-66.1,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-67.767,-68.917,34,Glaciology of the Antarctic Peninsula Program 1974,74 / 76,5.0,1975-12-31,1975-12-31,2
+-67.567,-68.133,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-67.533,-66.0,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-66.867,-63.133,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-66.59,112.53,381,S2,89,-9999.0,1957-09-12,1957-09-12,1
+-66.417,-64.95,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-66.033333,-64.066667,404,Larissa_beta,93,27.0,2010-01-01,2010-01-01,1
+-65.533,-59.897,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-65.25,-64.267,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-64.767,-64.083,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-64.7,-63.867,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-64.217,-57.633,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-64.083,-59.583,34,Glaciology of the Antarctic Peninsula Program 1974,74,5.0,1975-12-31,1975-12-31,1
+-63.4,-56.983,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-62.983,-60.567,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-62.2,-58.967,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1
+-62.083,-58.4,34,Glaciology of the Antarctic Peninsula Program 1974,76,5.0,1975-12-31,1975-12-31,1

@@ -1,0 +1,18 @@
+var, long_name, units, description
+# DATA VARIABLES
+measurement_id, measurement_index, -, index of smb measurement (unique for each observation)
+start_date, start_date_of_smb_measurement, , start date of measurement <measurement_id> (can be an estimation)
+end_date, end_date_of_smb_measurement,, end date of measurement <measurement_id> (can be an estimation)
+smb, surface_mass_balance, m w.e., Measured surface mass balance for measurement <measurement_id>
+error, error,  m w.e., Error associated with the SMB measurement <measurement_id>
+latitude, latitude, degree North, latitude of measurement <measurement_id>
+longitude, longitude, degree East, longitude of measurement <measurement_id>
+elevation, elevation, m, elevation of measurement <measurement_id>
+name_key, name_key, -, Name key associated to  measurement <measurement_id> (core name or location)
+method_key, method_key, -, method key of measurement <measurement_id>
+reference_key, reference_key, -, reference key of measurement <measurement_id>
+# METADATA VARIABLES
+name, name, -, Name of the name key <name_key>
+reference, reference, -, full reference corresponding to <reference_key> (please cite)
+reference_short, reference_short, -, short reference corresponding to <reference_key> (please cite)
+method, method, -, method corresponding to <method_key>

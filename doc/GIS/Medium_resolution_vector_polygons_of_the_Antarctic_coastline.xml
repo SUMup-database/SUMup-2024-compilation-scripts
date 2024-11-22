@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp>
+        <gco:Date>2023-05-11</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <spatialRepresentationInfo>
+        <MD_VectorSpatialRepresentation>
+            <topologyLevel>
+                <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+            </topologyLevel>
+            <geometricObjects>
+                <MD_GeometricObjects>
+                    <geometricObjectType>
+                        <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+                    </geometricObjectType>
+                </MD_GeometricObjects>
+            </geometricObjects>
+        </MD_VectorSpatialRepresentation>
+    </spatialRepresentationInfo>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>3031</gco:CharacterString>
+                    </code>
+                    <codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                    </codeSpace>
+                    <version>
+                        <gco:CharacterString>6.7(9.0.0)</gco:CharacterString>
+                    </version>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>add_coastline_medium_res_polygon_v7_7</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                    <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                    </presentationForm>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>AbstractCoastline for Antarctica created from various mapping and remote sensing sources, provided as polygons with ‘land’, ‘ice shelf’, ‘ice tongue’ or ‘rumple’ attribute. Covering all land and ice shelves south of 60°S. Suitable for topographic mapping and analysis. This dataset has been generalised from the high resolution vector polygons. Medium resolution versions of ADD data are suitable for scales smaller than 1:1,000,000, although certain regions will appear more detailed than others due to variable data availability and coastline characteristics.Changes in v7.7 include updates Brunt Ice Shelf, ice fronts on the east side of the Antarctic Peninsula, Pine Island and Thwaites Glaciers and the ice fronts and coastline around Charcot Island. Data quality checks were also performed to ensure existing features were categorised correctly around Getz Ice Shelf.Data compiled, managed and distributed by the Mapping and Geographic Information Centre and the UK Polar Data Centre, British Antarctic Survey on behalf of the Scientific Committee on Antarctic Research.Further information and useful linksMap projection: WGS84 Antarctic Polar Stereographic, EPSG 3031. Note: by default, opening this layer in the Map Viewer will display the data in Web Mercator.  To display this layer in its native projection use an Antarctic basemap.The currency of this dataset is May 2023 and will be reviewed every 6 months. This feature layer will always reflect the most recent version.For more information on, and access to other Antarctic Digital Database (ADD) datasets, refer to the SCAR ADD data catalogue.A related high resolution dataset is also published via Living Atlas, as well medium and high resolution line datasets.For background information on the ADD project, please see the British Antarctic Survey ADD project page.LineageDataset compiled from a variety of Antarctic map and satellite image sources. The dataset was created using ArcGIS and QGIS GIS software programmes and has been checked for basic topography and geometry checks, but does not contain strict topology. Quality varies across the dataset and certain areas where high resolution source data were available are suitable for large scale maps whereas other areas are only suitable for smaller scales. Each polygon contains a ‘surface’ attribute with either ‘land’, ‘ice shelf’, ‘ice tongue’ or ‘rumple’. Details of when and how each line was created can be found in the attributes of the high or medium resolution polyline coastline dataset. Data sources range in time from 1990s-2023 - individual lines contain exact source dates. This medium resolution version has been generalised from the high resolution version. All polygons &amp;lt;0.1km² not intersecting anything else were deleted and the ‘simplify’ tool was used in ArcGIS with the ‘point remove’ algorithm and a smoothing tolerance of 50 m.CitationPlease cite this item as 'Gerrish, L., Ireland, L., Fretwell, P., &amp;amp; Cooper, P. (2023). Medium resolution vector polygons of the Antarctic coastline (7.7) [Data set]. UK Polar Data Centre, Natural Environment Research Council, UK Research &amp;amp; Innovation. https://doi.org/10.5285/CC111B81-5066-42DD-BE60-9F05ABCB5873'.If using for a graphic or if short on space, please cite as 'data from the SCAR Antarctic Digital Database, 2023'</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Medium resolution vector polygons of the Antarctic coastline, from the SCAR Antarctic Digital Database</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>SCAR Antarctic Digital Database, 2023, https://doi.org/j9m3</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>antarctica</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>coastline</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>land</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>add</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>antarctic digital database</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Item licenceCreative Commons Attribution 4.0 International (CC BY 4.0)Licence summaryYou are free to:Share — copy and redistribute this item in any medium or formatAdapt — remix, transform, and build upon this item for any purpose, including commercialProviding that you:Include attribution — By including a citation, which must not suggest endorsement of you or your useDon't include additional restrictions — You may not legally restrict others from doing things this license permitsImport notes:Inaccuracies and mistakes - May be included unintentionally due to limited data availability or qualityNo warranty, liability or fitness for any purpose - You must not rely on this information for navigationThis is a short licence summary, see the full summary for more information and legal text.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <environmentDescription>
+                <gco:CharacterString>Esri ArcGIS 13.0.3.36057</gco:CharacterString>
+            </environmentDescription>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat>
+                <MD_Format>
+                    <name>
+                        <gco:CharacterString>Shapefile</gco:CharacterString>
+                    </name>
+                    <version gco:nilReason="missing"/>
+                </MD_Format>
+            </distributionFormat>
+            <transferOptions>
+                <MD_DigitalTransferOptions/>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>

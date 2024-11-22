@@ -1,0 +1,82 @@
+\begin{table}[t]
+\caption{Variables within the density NetCDF file}
+\begin{tabular}{|llll|}
+\hline
+\multicolumn{1}{|l|}{\textbf{Variable}} &
+  \multicolumn{1}{l|}{\textbf{Long name}} &
+  \multicolumn{1}{l|}{\textbf{Unit}} &
+  \textbf{Description} \\ \hline
+  
+\multicolumn{4}{|l|}{\textbf{DATA VARIABLES}} \\ \hline
+\multicolumn{1}{|l|}{measurement\_id} &
+  \multicolumn{1}{l|}{measurement\_index} &
+  \multicolumn{1}{l|}{-} &
+  index of density measurement (unique for each observation) \\ 
+\multicolumn{1}{|l|}{timestamp} &
+  \multicolumn{1}{l|}{timestamp} &
+  \multicolumn{1}{l|}{\begin{tabular}[c]{@{}l@{}}days since \\ 1900-01-01\end{tabular}} &
+  date at which measurement \textless{}measurement\_id\textgreater was measured \\ 
+\multicolumn{1}{|l|}{start\_depth} &
+  \multicolumn{1}{l|}{start\_depth\_of\_measurement} &
+  \multicolumn{1}{l|}{m} &
+  top depth of density measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{stop\_depth} &
+  \multicolumn{1}{l|}{stop\_depth\_of\_measurement} &
+  \multicolumn{1}{l|}{m} &
+  bottom depth of density measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{midpoint} &
+  \multicolumn{1}{l|}{midpoint\_depth\_of\_measurement} &
+  \multicolumn{1}{l|}{m} &
+  midpoint depth of density measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{density} &
+  \multicolumn{1}{l|}{density} &
+  \multicolumn{1}{l|}{kg m$^{-3}$} &
+  measured density for measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{error} &
+  \multicolumn{1}{l|}{error} &
+  \multicolumn{1}{l|}{kg m$^{-3}$} &
+  \begin{tabular}[c]{@{}l@{}}Error associated with the density measurement \\ \textless{}measurement\_id\textgreater{}\end{tabular} \\ 
+\multicolumn{1}{|l|}{latitude} &
+  \multicolumn{1}{l|}{latitude} &
+  \multicolumn{1}{l|}{degree North} &
+  latitude of measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{longitude} &
+  \multicolumn{1}{l|}{longitude} &
+  \multicolumn{1}{l|}{degree East} &
+  longitude of measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{elevation} &
+  \multicolumn{1}{l|}{elevation} &
+  \multicolumn{1}{l|}{m} &
+  elevation of measurement \textless{}measurement\_id\textgreater (datum may vary) \\ 
+\multicolumn{1}{|l|}{profile\_key} &
+  \multicolumn{1}{l|}{profile\_key} &
+  \multicolumn{1}{l|}{-} &
+  profile key associated with measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{method\_key} &
+  \multicolumn{1}{l|}{method\_key} &
+  \multicolumn{1}{l|}{-} &
+  method key of measurement \textless{}measurement\_id\textgreater{} \\ 
+\multicolumn{1}{|l|}{reference\_key} &
+  \multicolumn{1}{l|}{reference\_key} &
+  \multicolumn{1}{l|}{-} &
+  reference key of measurement \textless{}measurement\_id\textgreater{} \\ \hline
+  
+\multicolumn{4}{|l|}{\textbf{METADATA VARIABLES}} \\ \hline
+\multicolumn{1}{|l|}{profile} &
+  \multicolumn{1}{l|}{profile} &
+  \multicolumn{1}{l|}{-} &
+  name of the profile \textless{}profile\_key\textgreater{} \\ 
+\multicolumn{1}{|l|}{reference} &
+  \multicolumn{1}{l|}{reference} &
+  \multicolumn{1}{l|}{-} &
+  full reference associated with \textless{}reference\_key\textgreater \\ 
+\multicolumn{1}{|l|}{reference\_short} &
+  \multicolumn{1}{l|}{reference\_short} &
+  \multicolumn{1}{l|}{-} &
+  short reference associated with \textless{}reference\_key\textgreater \\ 
+\multicolumn{1}{|l|}{method} &
+  \multicolumn{1}{l|}{method} &
+  \multicolumn{1}{l|}{-} &
+  method associated with \textless{}method\_key\textgreater{} \\ \hline
+\end{tabular}
+\end{table}
